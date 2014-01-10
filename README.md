@@ -3,4 +3,11 @@
 
 a very simple script for very simple markdown bootstrap websites
 
+**more information*:**
+
+* [english](https://github.com/GabrielWanzek/mdpager/blob/master/content/home.md)
+* [german](https://github.com/GabrielWanzek/mdpager/blob/master/content/German.md)
+
+
 used theme: http://bootswatch.com/flatly/
+
