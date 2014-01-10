@@ -11,3 +11,5 @@ a very simple script for very simple markdown bootstrap websites
 
 used theme: http://bootswatch.com/flatly/
 
+you can use [other themes](http://bootswatch.com/) easily by replacing the `lib/bootstrap.min.css`
+
