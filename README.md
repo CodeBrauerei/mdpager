@@ -3,7 +3,7 @@
 
 a very simple script for very simple markdown bootstrap websites
 
-**more information*:**
+**more information:**
 
 * [english](https://github.com/GabrielWanzek/mdpager/blob/master/content/home.md)
 * [german](https://github.com/GabrielWanzek/mdpager/blob/master/content/German.md)
